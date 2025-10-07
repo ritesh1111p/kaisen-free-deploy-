@@ -100,7 +100,7 @@ export default function Dashboard() {
         <ScrollAnimation direction="up" delay={0.5} className="mt-16 pb-4">
           <footer className="text-center">
             <p className="text-xs text-white/50">
-              create by 𝘴น𝚖𝔞ꪦ_𝗿ǿⲩ 🍉 𝐀ɭīī 𝐈𝐍𝐗īī𝐃𝐄 ©2025
+              create by 𝘴น𝚖𝔞ꪦ_𝗿ǿⲩ 🍉 ©2025
             </p>
           </footer>
         </ScrollAnimation>
