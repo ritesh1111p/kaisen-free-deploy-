@@ -91,7 +91,7 @@ export default function Dashboard() {
           ) : (
             <ScrollAnimation direction="scale" delay={0.3} className="col-span-full">
               <div className="text-center py-12 rounded-2xl border border-white/10 bg-white/5 backdrop-blur-lg">
-                <p className="text-white/60">No active sessions. Click "New Pair" to get started!</p>
+                <p className="text-white/60">No active sessions. Click &quot;New Pair&quot; to get started!</p>
               </div>
             </ScrollAnimation>
           )}
